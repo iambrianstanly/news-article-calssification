@@ -1,0 +1,14 @@
+class_weights:
+  0: 0.8725490196078431
+  1: 1.1521035598705502
+  2: 1.0690690690690692
+  3: 0.8704156479217604
+  4: 1.1090342679127725
+classes:
+  business: 0
+  entertainment: 1
+  politics: 2
+  sport: 3
+  tech: 4
+max_length: 4492
+vocab_size: 1000
