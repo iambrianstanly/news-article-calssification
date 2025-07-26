@@ -1,6 +1,5 @@
-.env/
 __pycache__
+.env/
 data/
-models/
-configs/data_configs.yml
-notebooks/
+experiment_models/
+model/

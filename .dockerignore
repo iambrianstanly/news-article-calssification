@@ -1,0 +1,9 @@
+__pycache__/
+.env/
+data/
+experiment_models/
+notebooks/
+samples
+scripts/
+.gitignore
+README.md
