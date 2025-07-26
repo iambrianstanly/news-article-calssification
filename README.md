@@ -90,7 +90,7 @@ docker build -t text-classifier .
 docker run -p 8000:8000 text-classifier
 ```
 
-3. **Predict via API:** Send a POST request to `/predict` with your news text.
+3. **Predict via API:** Send a POST request to `/predict` with your news text. or go to [localhost](http://localhost:8000/docs)
 
 ## Why This Work Stands Out
 
